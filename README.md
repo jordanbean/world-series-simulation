@@ -4,3 +4,5 @@ against an opponents similar batting neighbors (for pitchers) and pitching neigh
 
 We'll then randomly select scores from the distribution, assign a winner, simulate the series, then repeat the process
 over the course of 20,000 simulations and calculated the odds of a team winning the series.
+
+The accompanying write-up can be found on Medium here: https://medium.com/@jordanbean/simulating-the-2018-world-series-45bc16e3aa27
